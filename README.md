@@ -1,5 +1,5 @@
 # PHP-learning
-PHP; HTML; CSS;
+PHP; HTML; CSS; JS;
 
 # Summary
 PHP projects done for University.
